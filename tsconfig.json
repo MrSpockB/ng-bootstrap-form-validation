@@ -27,5 +27,8 @@
         "dist/ng-bootstrap-form-validation/*"
       ]
     }
+  },
+  "angularCompilerOptions": {
+    "enableIvy": false
   }
 }
